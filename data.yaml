@@ -1,0 +1,16 @@
+names:
+- Brain-With-Meningioma-Tumour
+- Brain-With-Pituitary-Tumour
+- Brain-With-Tumour
+- Healthy Brain
+- Tumor
+nc: 5
+roboflow:
+  license: CC BY 4.0
+  project: brain-tumor-omjcy
+  url: https://universe.roboflow.com/mike-cox-szip2/brain-tumor-omjcy/dataset/2
+  version: 2
+  workspace: mike-cox-szip2
+test: ../test/images
+train: ../train/images
+val: ../valid/images
